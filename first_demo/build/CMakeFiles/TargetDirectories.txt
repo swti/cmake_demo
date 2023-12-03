@@ -1,0 +1,14 @@
+/home/sunwt/personal/cmake_demo/first_demo/build/CMakeFiles/first_demo.dir
+/home/sunwt/personal/cmake_demo/first_demo/build/CMakeFiles/edit_cache.dir
+/home/sunwt/personal/cmake_demo/first_demo/build/CMakeFiles/rebuild_cache.dir
+/home/sunwt/personal/cmake_demo/first_demo/build/CMakeFiles/list_install_components.dir
+/home/sunwt/personal/cmake_demo/first_demo/build/CMakeFiles/install.dir
+/home/sunwt/personal/cmake_demo/first_demo/build/CMakeFiles/install/local.dir
+/home/sunwt/personal/cmake_demo/first_demo/build/CMakeFiles/install/strip.dir
+/home/sunwt/personal/cmake_demo/first_demo/build/my_fun/CMakeFiles/my_fun.dir
+/home/sunwt/personal/cmake_demo/first_demo/build/my_fun/CMakeFiles/edit_cache.dir
+/home/sunwt/personal/cmake_demo/first_demo/build/my_fun/CMakeFiles/rebuild_cache.dir
+/home/sunwt/personal/cmake_demo/first_demo/build/my_fun/CMakeFiles/list_install_components.dir
+/home/sunwt/personal/cmake_demo/first_demo/build/my_fun/CMakeFiles/install.dir
+/home/sunwt/personal/cmake_demo/first_demo/build/my_fun/CMakeFiles/install/local.dir
+/home/sunwt/personal/cmake_demo/first_demo/build/my_fun/CMakeFiles/install/strip.dir
